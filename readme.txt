@@ -1,5 +1,7 @@
 shimeji-ee
 
+This is a back up of the main from google code. I dont know how you got here but feel free to do what you'd like or look at the go remake im making (Shimeji-go).
+
 Shimeji English Enhanced
 
 Shimeji-ee is a Windows desktop mascot that freely wanders and plays around the screen.  The mascot is very configurable; its actions are defined through xml and its animations/images can be (painstakingly) customized.  Shimeji was originally created by Yuki Yamada of Group Finity (http://www.group-finity.com/Shimeji/).  This branch of the original Shimeji project not only translates the program/source to English, but adds additional enhancements to Shimeji.
